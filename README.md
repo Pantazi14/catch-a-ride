@@ -10,3 +10,4 @@ MSOA Project - Catch-a-ride car rental system
 2. Go to posts and delete Hello World post
 3. Added WP Google Maps Plugin
 4. Added Map with custom markers on Locations page
+5. Added Welcome to Catch-A-Ride post
