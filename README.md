@@ -7,3 +7,4 @@ MSOA Project - Catch-a-ride car rental system
 
 # Changes
 1. Change theme to fblogging
+2. Go to posts and delete Hello World post
